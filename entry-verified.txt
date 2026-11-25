@@ -1,0 +1,1 @@
+Fixed: sleep now begins the moment your head touches the pillow; the 2 a.m. replay of everything embarrassing you have ever said has been removed.
